@@ -63,9 +63,14 @@ Use the skins system TLauncher.org: On
 
 ![Click on Create](.gitbook/assets/screenshot-from-2021-05-30-16-55-55.png)
 
-Download the mod zip, unpack it and click on the settings button and then Manual installation. Select all the mods. Manually install Optifine for the best performance.
+Download the following mods: 
+
+**MANDATORY** LibVulpes, Advanced Rocketry, Obfuscate, Backpacker, Backpacked Crayfish Furniture, Crayfish Vehicle, Chipped, Cooking for Blockheads, Create, Mekanism, Mekanism Generators, Pam's HarvestCraft FoodCore, Pam's HarvestCraft Crops, Pam's HarvestCraft Trees, Pam's HarvestCraft FoodExtended.   
+**OPTIONAL** Optifine, JEI, JourneyMap
 
 ![Click on this button](.gitbook/assets/screenshot-from-2021-05-30-17-00-00.png)
+
+
 
 Click on "Enter the game". The IP is 192.168.192.237:25565. Remember you must have ZT0 enabled and running.
 
