@@ -1,28 +1,23 @@
-description: 'Read up, player, on the lore of our handsome server.'
----
-
-# Server lore
-
-## How it all started
+### How it all started
 
 H
 
-## When the life came to be
+### When the life came to be
 
 h
 
-## **The first aparitions of intelligence**
+### **The first aparitions of intelligence**
 
 H
 
-## The Stone age
+### The Stone age
 
 h
 
-## The Automation age
+### The Automation age
 
 H
 
-## The Space age
+### The Space age
 
 h
