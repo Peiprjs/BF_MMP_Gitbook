@@ -1,9 +1,3 @@
----
-description: 'Read up, fellow player, on the lore of this server.'
----
-
-# Server lore
-
 ### How it all started
 
 H
@@ -27,4 +21,3 @@ H
 ### The Space age
 
 h
-
