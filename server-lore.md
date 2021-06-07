@@ -12,7 +12,7 @@ It is calculated that 129M years ago, the very first star was created. Nobody kn
 
 ## When the life came to be
 
-h
+Randomly, one day, a fish appeared. That fish seems to have evolved and gotten to land. Then, mutations did their job. The Biology division of the BFSF is looking into this.
 
 ## **The first aparitions of intelligence**
 
