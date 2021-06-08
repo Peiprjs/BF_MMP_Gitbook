@@ -53,22 +53,9 @@ Once it's downloaded, log in by clicking on "Accounts" or set your username. The
 
 ![You must click on this logo. You may have to click it twice.](.gitbook/assets/screenshot-from-2021-05-30-16-54-13.png)
 
-Make a modpack with your preferred title and the following characteristics:
+Look for the modpack called "Modpack for the "Boyfriends!" Discord" or download it here:
 
-```aspnet
-Game version: 1.16.5
-Forge version: 36.1.24+
-Use the skins system TLauncher.org: On
-```
 
-![Click on Create](.gitbook/assets/screenshot-from-2021-05-30-16-55-55.png)
-
-Download the following mods: 
-
-**MANDATORY** LibVulpes, Advanced Rocketry, Obfuscate, Backpacker, Backpacked Crayfish Furniture, Crayfish Vehicle, Chipped, Cooking for Blockheads, Create, Mekanism, Mekanism Generators, Pam's HarvestCraft FoodCore, Pam's HarvestCraft Crops, Pam's HarvestCraft Trees, Pam's HarvestCraft FoodExtended.   
-**OPTIONAL** Optifine, JEI, JourneyMap
-
-![Click on this button](.gitbook/assets/screenshot-from-2021-05-30-17-00-00.png)
 
 
 
